@@ -1,4 +1,4 @@
-### ![Hi there 👋](https://toweave.github.io/awesome/)
+### ![Hi there.](https://toweave.github.io/awesome/)
 
 <!--
 **toweave/toweave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
